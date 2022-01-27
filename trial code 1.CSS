@@ -1,0 +1,45 @@
+body {
+   max-width: 650px;
+    margin:40px auto;
+    border: crimson;
+    border-style: double;
+    border-width:5px;
+    text-align: center;
+    font-size: large;
+
+    
+    
+ 
+}
+.abc{background-color: rgb(215, 245, 245);
+    color: rgb(250, 4, 176);
+     text-align: center;
+    
+}
+
+.bcd {background-color: rgb(253, 94, 126);
+    color: rgb(252, 248, 248);
+}
+table{
+    margin:5 px ;
+    
+    color:rgb(7, 7, 7);
+    
+    
+}
+a{
+    max-width: 10 px; 
+}
+img{ border-radius: 50%;
+    
+}
+ table {
+     
+     border: rgb(252, 13, 5);
+ }
+ .bh{
+     background-color: aquamarine;
+ }
+ footer {
+     text-align: end;
+ }
